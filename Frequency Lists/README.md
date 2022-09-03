@@ -1,5 +1,16 @@
 Frequency lists formatted for use with "Immerse With Migaku - Alpha" browser extension version "0.9.10.1" and compatible versions of the Chrome extension.
 
+# Vocabuary Word Types
+
+These lists include the following types of vocabulary word:
+
+* 副詞 (adverb)
+* 動詞 (verb)
+* 名詞 (noun)
+* 形容詞 (adjective)
+* 感動詞 (interjection)
+* 指示詞 (demonstrative)
+
 # Frequency Distribution
 
 Migaku does not support frequency numbers in a frequency list.  Instead, frequency is based on the word's position in the frequency file.
